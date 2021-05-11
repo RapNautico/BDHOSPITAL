@@ -1,0 +1,6 @@
+C:\Users\RapNautico\source\repos\capa_entidad\bin\Debug\capa_entidad.dll
+C:\Users\RapNautico\source\repos\capa_entidad\bin\Debug\capa_entidad.pdb
+C:\Users\RapNautico\source\repos\capa_entidad\obj\Debug\capa_entidad.csprojAssemblyReference.cache
+C:\Users\RapNautico\source\repos\capa_entidad\obj\Debug\capa_entidad.csproj.CoreCompileInputs.cache
+C:\Users\RapNautico\source\repos\capa_entidad\obj\Debug\capa_entidad.dll
+C:\Users\RapNautico\source\repos\capa_entidad\obj\Debug\capa_entidad.pdb

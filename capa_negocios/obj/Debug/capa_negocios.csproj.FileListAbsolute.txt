@@ -1,0 +1,11 @@
+C:\Users\RapNautico\source\repos\capa_negocios\obj\Debug\capa_negocios.csprojAssemblyReference.cache
+C:\Users\RapNautico\source\repos\capa_negocios\obj\Debug\capa_negocios.csproj.CoreCompileInputs.cache
+C:\Users\RapNautico\source\repos\capa_negocios\bin\Debug\capa_negocios.dll
+C:\Users\RapNautico\source\repos\capa_negocios\bin\Debug\capa_negocios.pdb
+C:\Users\RapNautico\source\repos\capa_negocios\bin\Debug\capa_datos.dll
+C:\Users\RapNautico\source\repos\capa_negocios\bin\Debug\capa_entidad.dll
+C:\Users\RapNautico\source\repos\capa_negocios\bin\Debug\capa_datos.pdb
+C:\Users\RapNautico\source\repos\capa_negocios\bin\Debug\capa_entidad.pdb
+C:\Users\RapNautico\source\repos\capa_negocios\obj\Debug\capa_negocios.csproj.CopyComplete
+C:\Users\RapNautico\source\repos\capa_negocios\obj\Debug\capa_negocios.dll
+C:\Users\RapNautico\source\repos\capa_negocios\obj\Debug\capa_negocios.pdb
